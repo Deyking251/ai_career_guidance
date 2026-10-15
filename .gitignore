@@ -1,0 +1,11 @@
+.venv/
+frontend/node_modules/
+backend/node_modules/
+frontend/dist/
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
+data/users.json
+backend/.env
+backend/.env.*
+!backend/.env.example

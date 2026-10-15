@@ -1,0 +1,7 @@
+role,required_skills,profile,description
+Backend Developer,"python,java,sql,rest api,git,docker","backend api server python java sql programming software development","Build server-side applications, APIs and database-driven systems."
+Frontend Developer,"html,css,javascript,react,git","frontend web html css javascript react ui user interface","Build responsive web interfaces and interactive applications."
+Data Analyst,"python,sql,excel,power bi,statistics","data analysis python sql excel statistics dashboards business intelligence","Analyze data, create dashboards and communicate insights."
+Machine Learning Engineer,"python,machine learning,pandas,numpy,scikit-learn,git","machine learning ai python pandas numpy models artificial intelligence","Develop and deploy machine learning solutions."
+DevOps Engineer,"linux,git,docker,kubernetes,aws,ci/cd","devops cloud linux docker kubernetes aws deployment automation","Automate software delivery and manage cloud infrastructure."
+Full Stack Developer,"html,css,javascript,react,node,sql,git","full stack web react node javascript sql frontend backend","Develop complete web applications across frontend and backend."

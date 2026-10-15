@@ -1,0 +1,19 @@
+{
+  "name": "ai-career-guidance-backend",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Node.js API for the AI Career Guidance prototype",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "dotenv": "^18.0.8",
+    "mysql2": "^3.24.6"
+  }
+}
